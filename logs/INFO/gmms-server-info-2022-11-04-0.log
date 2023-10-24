@@ -1,0 +1,19 @@
+2022-11-04 22:01:29.443 INFO  [main]com.gaobug.GaobugApplication.logStarting:55 -Starting GaobugApplication using Java 1.8.0_301 on PC-20220222BTLW with PID 28408 (E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo\target\classes started by Administrator in E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo)
+2022-11-04 22:01:29.447 INFO  [main]com.gaobug.GaobugApplication.logStartupProfileInfo:641 -The following profiles are active: dev
+2022-11-04 22:01:29.828 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:262 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-04 22:01:29.830 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:132 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-11-04 22:01:29.842 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:201 -Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-11-04 22:01:30.152 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 9156 (http)
+2022-11-04 22:01:30.160 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-9156"]
+2022-11-04 22:01:30.161 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2022-11-04 22:01:30.162 INFO  [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-11-04 22:01:30.222 INFO  [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2022-11-04 22:01:30.222 INFO  [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:290 -Root WebApplicationContext: initialization completed in 739 ms
+2022-11-04 22:01:32.020 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-9156"]
+2022-11-04 22:01:32.027 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Pausing ProtocolHandler ["http-nio-9156"]
+2022-11-04 22:01:32.027 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2022-11-04 22:01:32.032 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Stopping ProtocolHandler ["http-nio-9156"]
+2022-11-04 22:01:32.033 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Destroying ProtocolHandler ["http-nio-9156"]
+2022-11-04 22:01:32.037 INFO  [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

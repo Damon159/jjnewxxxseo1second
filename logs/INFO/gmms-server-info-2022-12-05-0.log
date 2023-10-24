@@ -1,0 +1,68 @@
+2022-12-05 10:11:16.810 INFO  [main]com.gaobug.GaobugApplication.logStarting:55 -Starting GaobugApplication using Java 1.8.0_301 on PC-20220222BTLW with PID 13052 (E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo\target\classes started by Administrator in E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo)
+2022-12-05 10:11:16.812 INFO  [main]com.gaobug.GaobugApplication.logStartupProfileInfo:641 -The following profiles are active: dev
+2022-12-05 10:11:17.093 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:262 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-12-05 10:11:17.094 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:132 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-12-05 10:11:17.105 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:201 -Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2022-12-05 10:11:17.309 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 9156 (http)
+2022-12-05 10:11:17.314 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-9156"]
+2022-12-05 10:11:17.314 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2022-12-05 10:11:17.314 INFO  [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-12-05 10:11:17.350 INFO  [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2022-12-05 10:11:17.350 INFO  [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:290 -Root WebApplicationContext: initialization completed in 516 ms
+2022-12-05 10:11:18.285 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-9156"]
+2022-12-05 10:11:18.294 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 9156 (http) with context path ''
+2022-12-05 10:11:18.301 INFO  [main]com.gaobug.GaobugApplication.logStarted:61 -Started GaobugApplication in 1.746 seconds (JVM running for 2.082)
+2022-12-05 10:11:24.600 INFO  [http-nio-9156-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-05 10:11:24.600 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2022-12-05 10:11:24.601 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 1 ms
+2022-12-05 15:17:42.494 INFO  [main]com.gaobug.GaobugApplication.logStarting:55 -Starting GaobugApplication using Java 1.8.0_301 on PC-20220222BTLW with PID 25652 (E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo\target\classes started by Administrator in E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo)
+2022-12-05 15:17:42.496 INFO  [main]com.gaobug.GaobugApplication.logStartupProfileInfo:641 -The following profiles are active: dev
+2022-12-05 15:17:42.808 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:262 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-12-05 15:17:42.809 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:132 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-12-05 15:17:42.820 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:201 -Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-12-05 15:17:43.023 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 9156 (http)
+2022-12-05 15:17:43.028 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-9156"]
+2022-12-05 15:17:43.028 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2022-12-05 15:17:43.028 INFO  [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-12-05 15:17:43.070 INFO  [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2022-12-05 15:17:43.071 INFO  [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:290 -Root WebApplicationContext: initialization completed in 551 ms
+2022-12-05 15:17:43.987 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-9156"]
+2022-12-05 15:17:43.995 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 9156 (http) with context path ''
+2022-12-05 15:17:44.000 INFO  [main]com.gaobug.GaobugApplication.logStarted:61 -Started GaobugApplication in 1.754 seconds (JVM running for 2.076)
+2022-12-05 15:17:47.440 INFO  [http-nio-9156-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-05 15:17:47.440 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2022-12-05 15:17:47.440 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 0 ms
+2022-12-05 15:18:21.147 INFO  [main]com.gaobug.GaobugApplication.logStarting:55 -Starting GaobugApplication using Java 1.8.0_301 on PC-20220222BTLW with PID 30552 (E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo\target\classes started by Administrator in E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo)
+2022-12-05 15:18:21.149 INFO  [main]com.gaobug.GaobugApplication.logStartupProfileInfo:641 -The following profiles are active: dev
+2022-12-05 15:18:21.480 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:262 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-12-05 15:18:21.481 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:132 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-12-05 15:18:21.492 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:201 -Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-12-05 15:18:21.703 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 9156 (http)
+2022-12-05 15:18:21.707 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-9156"]
+2022-12-05 15:18:21.708 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2022-12-05 15:18:21.708 INFO  [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-12-05 15:18:21.755 INFO  [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2022-12-05 15:18:21.755 INFO  [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:290 -Root WebApplicationContext: initialization completed in 586 ms
+2022-12-05 15:18:22.580 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-9156"]
+2022-12-05 15:18:22.587 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 9156 (http) with context path ''
+2022-12-05 15:18:22.593 INFO  [main]com.gaobug.GaobugApplication.logStarted:61 -Started GaobugApplication in 1.708 seconds (JVM running for 2.057)
+2022-12-05 15:18:25.078 INFO  [http-nio-9156-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-05 15:18:25.078 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2022-12-05 15:18:25.079 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 0 ms
+2022-12-05 17:29:28.543 INFO  [main]com.gaobug.GaobugApplication.logStarting:55 -Starting GaobugApplication using Java 1.8.0_301 on PC-20220222BTLW with PID 43540 (E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo\target\classes started by Administrator in E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo)
+2022-12-05 17:29:28.544 INFO  [main]com.gaobug.GaobugApplication.logStartupProfileInfo:641 -The following profiles are active: dev
+2022-12-05 17:29:28.861 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:262 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-12-05 17:29:28.862 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:132 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-12-05 17:29:28.874 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:201 -Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-12-05 17:29:29.083 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 9156 (http)
+2022-12-05 17:29:29.087 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-9156"]
+2022-12-05 17:29:29.088 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2022-12-05 17:29:29.088 INFO  [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-12-05 17:29:29.125 INFO  [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2022-12-05 17:29:29.125 INFO  [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:290 -Root WebApplicationContext: initialization completed in 557 ms
+2022-12-05 17:29:29.994 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-9156"]
+2022-12-05 17:29:30.003 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 9156 (http) with context path ''
+2022-12-05 17:29:30.009 INFO  [main]com.gaobug.GaobugApplication.logStarted:61 -Started GaobugApplication in 1.738 seconds (JVM running for 2.079)
+2022-12-05 17:29:32.563 INFO  [http-nio-9156-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-05 17:29:32.563 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2022-12-05 17:29:32.564 INFO  [http-nio-9156-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 1 ms

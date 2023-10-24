@@ -1,0 +1,12 @@
+Sitemap:http://javatestshell.zz/sitemap0.xml
+Sitemap:http://javatestshell.zz/sitemap1.xml
+Sitemap:http://javatestshell.zz/sitemap2.xml
+Sitemap:http://javatestshell.zz/sitemap3.xml
+Sitemap:http://javatestshell.zz/sitemap4.xml
+Sitemap:http://javatestshell.zz/sitemap5.xml
+Sitemap:http://javatestshell.zz/sitemap6.xml
+Sitemap:http://javatestshell.zz/sitemap7.xml
+Sitemap:http://javatestshell.zz/sitemap8.xml
+Sitemap:http://javatestshell.zz/sitemap9.xml
+Sitemap:http://javatestshell.zz/sitemap10.xml
+Sitemap:http://javatestshell.zz/sitemap11.xml

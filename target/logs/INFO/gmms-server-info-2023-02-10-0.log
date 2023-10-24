@@ -1,0 +1,15 @@
+2023-02-10 09:58:24.183 INFO  [main]com.gaobug.GaobugApplication.logStarting:55 -Starting GaobugApplication v1.0 using Java 1.8.0_301 on PC-20220222BTLW with PID 39576 (E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo1second\target\gaobug-1.0.jar started by Administrator in E:\lr\数据处理内容\Javaproduct\greatSeo\xxxseo1second\target)
+2023-02-10 09:58:24.185 INFO  [main]com.gaobug.GaobugApplication.logStartupProfileInfo:641 -The following profiles are active: dev
+2023-02-10 09:58:24.564 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:262 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-10 09:58:24.565 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:132 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-10 09:58:24.579 INFO  [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:201 -Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-02-10 09:58:24.992 INFO  [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 9156 (http)
+2023-02-10 09:58:25.000 INFO  [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-9156"]
+2023-02-10 09:58:25.000 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2023-02-10 09:58:25.000 INFO  [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-02-10 09:58:25.035 INFO  [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2023-02-10 09:58:25.035 INFO  [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:290 -Root WebApplicationContext: initialization completed in 822 ms
+2023-02-10 09:58:25.082 INFO  [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2023-02-10 09:58:25.092 INFO  [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

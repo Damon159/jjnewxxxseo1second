@@ -1,0 +1,28 @@
+2023-01-28 14:35:00.384 ERROR [main]o.s.boot.diagnostics.LoggingFailureAnalysisReporter.report:40 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9156 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9156 or configure this application to listen on another port.
+
+2023-01-28 14:35:36.126 ERROR [main]o.s.boot.diagnostics.LoggingFailureAnalysisReporter.report:40 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9156 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9156 or configure this application to listen on another port.
+

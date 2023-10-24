@@ -1,0 +1,46 @@
+test.edebsaucer.buzz 推广域名
+接口说明
+/configweb.txt 生成configweb.txt randId 程序开始只运行一次
+/getData 生成采集文本 生成路径 keywords/
+/putData 回填数据 
+/changeDomain 换域名
+/sitemap 地图
+/pingsitemap 提交地图 生成robots.txt 存放在 /bingsitemap
+/getcontent 获取产品内容
+/test123456 测试接口
+
+文件说明
+configsql.txt 域名文本 数据库名制表符域名 手动放入
+configweb.txt 域名定位标识 标识符=>域名 自动生成 
+googlejson.txt 结构化数据 手动放入(已有)
+id.txt id号 自动生成
+jptitle.txt 热销词 手动放入
+ll.txt 随机字母 手动放入(已有)
+changeDomain.txt 域名替换 新域名制表符旧域名 手动放入
+keywords YouTube yahoo 谷歌图片采集文件 自动生成
+bingsitemap robots 文件自动生成
+htm 存放模板文件 手动放入
+site 拉去数据 自动生成
+youtube 采集到的db3文件 手动创建文件夹
+googleimage 采集到的谷歌图片 手动创建文件夹
+yahoo 采集到的yahoo关键字 手动创建文件夹
+PS:php 劫持代码
+
+文件位置
+configsql.txt、configweb.txt、id.txt、jptitle.txt、ll.txt、googlejson.txt、changeDomain.txt 跟.jar 存放同一成目录
+html site .jar上一层目录
+
+使用说明
+宝塔建好项目上传jar包启动运行
+用idea maven package 成.jar包上传
+文件上传好后 访问 /configweb.txt 只访问一次
+提交地图 访问 /pingsitemap
+获取数据 访问 /getData 访问一次
+回填数据 访问 /putDat 访问一次
+查看地图 /sitemap
+测试接口 /test123456
+
+环境配置
+宝塔安装Java项目一键部署 3.5
+安装tomcat8
+导入Linux jdk1.8

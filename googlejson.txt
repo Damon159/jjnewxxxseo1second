@@ -1,0 +1,298 @@
+{
+	"json1": {
+		"@context": "https://schema.org/",
+		"@type": "Product",
+		"name": "Executive Anvil",
+		"image": [],
+		"description": "",
+		"sku": "",
+		"review": {
+			"@type": "Review",
+			"reviewRating": {
+				"@type": "Rating",
+				"ratingValue": "4",
+				"bestRating": "5"
+			},
+			"author": {
+				"@type": "Person",
+				"name": "Fred Benson"
+			}
+		},
+		"aggregateRating": {
+			"@type": "AggregateRating",
+			"ratingValue": "4.4",
+			"reviewCount": "91"
+		},
+		"offers": {
+			"@type": "Offer",
+			"url": "https://example.com/anvil",
+			"priceCurrency": "JPY",
+			"price": "119.99",
+			"priceValidUntil": "2099-12-29",
+			"itemCondition": "https://schema.org/UsedCondition",
+			"availability": "https://schema.org/InStock"
+		}
+	},
+	"json2": {
+		"@context": "https://schema.org",
+		"@type": "NewsArticle",
+		"headline": "Title of a News Article",
+		"image": [],
+		"description": "",
+		"datePublished": "2015-02-05T08:00:00+08:00",
+		"dateModified": "2015-02-05T09:20:00+08:00",
+		"author": {
+			"@type": "Person",
+			"name": "Willow Lane",
+			"jobTitle": "Journalist",
+			"url": "https://www.example.com/staff/willow-lane"
+		},
+		"publisher": {
+			"@type": "Organization",
+			"name": "The Daily Bug",
+			"url": "https://www.example.com"
+		}
+	},
+	"json4": {
+		"@context": "https://schema.org",
+		"@type": "ItemList",
+		"itemListElement": [{
+				"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"@type": "Course",
+					"url": "https://www.example.com/courses#intro-to-cs",
+					"name": "Introduction to Computer Science and Programming",
+					"description": "This is an introductory CS course laying out the basics.",
+					"provider": {
+						"@type": "Organization",
+						"name": "University of Technology - Example",
+						"sameAs": "https://www.example.com"
+					}
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"item": {
+					"@type": "Course",
+					"url": "https://www.example.com/courses#intermediate-cs",
+					"name": "Intermediate Computer Science and Programming",
+					"description": "This is a CS course that builds on the basics learned in the Introduction course.",
+					"provider": {
+						"@type": "Organization",
+						"name": "University of Technology - Example",
+						"sameAs": "https://www.example.com"
+					}
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 3,
+				"item": {
+					"@type": "Course",
+					"url": "https://www.example.com/courses#advanced-cs",
+					"name": "Advanced Computer Science and Programming",
+					"description": "This CS course covers advanced programming principles.",
+					"provider": {
+						"@type": "Organization",
+						"name": "University of Technology - Eureka",
+						"sameAs": "https://www.example.com"
+					}
+				}
+			}
+		]
+	},
+	"json6": {
+		"@context": "https://schema.org",
+		"@type": "NewsArticle",
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://safecity.taguiginfo.com/jfxb-410r6-6226.htm"
+		},
+		"headline": "大人の上質 Oahu Women's Designs Carve ボトムス ハーフパンツ・ショーツ レディース カーブデザイン Hi Short Inch 4 Rise ショート、ハーフパンツ",
+		"image": [
+			"https://item-shopping.c.yimg.jp/i/n/revida_06-6226341-quarry"
+		],
+		"datePublished": "2022-08-27T00:08",
+		"dateModified": "2022-09-05T22:38",
+		"author": {
+			"@type": "Person",
+			"name": "safecity.taguiginfo.com"
+		},
+		"publisher": {
+			"@type": "Organization",
+			"name": "safecity.taguiginfo.com",
+			"url": "https://safecity.taguiginfo.com/jfxb-410r6-6226.htm"
+		}
+	},
+	"json7": {
+		"@context": "https://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [{
+				"@type": "ListItem",
+				"item": "https://ptctangail.police.gov.bd",
+				"name": "ホーム",
+				"position": "1"
+			},
+			{
+				"@type": "ListItem",
+				"item": "https://ptctangail.police.gov.bd/index.php?mdsx1864824d32",
+				"name": "アウトドア",
+				"position": "2"
+			},
+			{
+				"@type": "ListItem",
+				"item": "https://ptctangail.police.gov.bd/index.php?gbwf1449324d32",
+				"name": "その他",
+				"position": "3"
+			},
+			{
+				"@type": "ListItem",
+				"item": "https://ptctangail.police.gov.bd??njlj27077eb632",
+				"name": "WARRIOR Elite Ops Helmet Cargo Pack",
+				"position": "4"
+			}
+		]
+	},
+"json8":{
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "description": "The Catcher in the Rye is a classic coming-of-age story: an story of teenage alienation, capturing the human need for connection and the bewildering sense of loss as we leave childhood behind.",
+              "sku": "9780241984758",
+              "mpn": "925872",
+              "image": "http://www.example.com/catcher-in-the-rye-book-cover.jpg",
+              "name": "The Catcher in the Rye",
+              "review": [{
+                "@type": "Review",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5"
+                },
+                "author": {
+                  "@type": "Person",
+                  "name": "John Doe"
+                }
+               },
+              {
+                "@type": "Review",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "1"
+                },
+                "author": {
+                  "@type": "Person",
+                  "name": "Jane Doe"
+                }
+              }],
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "88",
+                "bestRating": "100",
+                "ratingCount": "20"
+              },
+              "offers": {
+                "@type": "Offer",
+                "url": "https://example.com/offers/catcher-in-the-rye",
+                "priceCurrency": "USD",
+                "price": "5.99",
+                "priceValidUntil": "2020-11-05",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "eBay"
+                }
+              }
+            },
+"json9":{
+        	"@context": "https://schema.org",
+        	"@type": "NewsArticle",
+        	"headline": "ロードバイク ビアンキ Infinito c2c ultegra",
+        	"image": [],
+        	"datePublished": "2022-11-09T10:05:33+09:00",
+        	"dateModified": "2022-11-09T10:05:33+09:00",
+        	"author": [{
+        		"@type": "Person",
+        		"name": "gopulster.com",
+        		"url": "https://gopulster.com/?5728wnds1408seq772410.html"
+        	}, {
+        		"@type": "Person",
+        		"name": "gopulster.com",
+        		"url": "https://gopulster.com/?5728wnds1408seq772410.html"
+        	}]
+        },
+"json10":{
+           "@context": "https://schema.org",
+           "@type": "NewsArticle",
+           "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "https://falbydesign.dk"
+           },
+           "headline": "【ビンテージ】70s ポーランドZPM Radomsko社製 ベントウッドチェア",
+           "image": [
+             "https://static.mercdn.net/item/detail/orig/photos/m15465210888_1.jpg?1646313559"
+            ],
+           "datePublished": "2022-11-24CST03:09:14",
+           "dateModified": "2022-12-01CST10:16:21",
+           "author": {
+             "@type": "Person",
+             "name": "falbydesign.dk"
+           },
+            "publisher": {
+             "@type": "Organization",
+             "name": "falbydesign.dk",
+             "url": "https://falbydesign.dk"
+           }
+         },
+"json11":
+{
+	"@context": "https://schema.org/",
+	"@type": "Product",
+	"name": "{#product_name}",
+	"image": "{#mainimage}",
+	"description": "{#products_description}",
+	"offers": {
+		"@type": "Offer",
+		"url": "{#current_url}",
+		"priceCurrency": "JPY",
+		"price": "{#product_price}",
+		"availability": "https://schema.org/InStock",
+		"itemCondition": "https://schema.org/NewCondition"
+	},
+	"aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": 4.3,
+		"reviewCount": 30
+	},
+	"category": "{#category}"
+},
+"json12":
+{
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "青峰　将暉様専用",
+        "image":"https://static.mercdn.net/item/detail/orig/photos/m86365443308_1.jpg?1645868238",
+        "description": "SONY PlayStation4 CUH-2200AB01 本体には1mほど離れたら見えないぐらいの傷はありますが、ほとんど目立つ汚れや傷はございません 動作確認済みです 予備のコントローラーとあまり使わなかった 背面パッドも付いています！ 本体 ワイヤレスコントローラー2つ 背面パッド 電源ケーブル HDMIケーブル 充電ケーブル ※ELECOMメカニカルキーボード＋Gpro有線マウス ※シューティングゲーム等でキーボード・マウスを使用したいと考えている方はご連絡ください　格安でお付けします 何か質問などがあれば何でもお申し付けください ゲーム機本体種類: PlayStation4 ポータブル・据置タイプ: 据置タイプ #ソニー #SONY",
+        "sku": "aRs9z24904",
+        "mpn": "aRs9z24904",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Iotn Ttwxw"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "25"
+        }
+
+      }
+}
